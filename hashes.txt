@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Porichoy
+
+This log tracks the cryptographic history and versioning for the song **Porichoy** (porichoy).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T19:41:40.280520 | `v1` | `d810379dd4f73eef26c27ec90ed0402ed57edfeee786c9392131fbadab29d8d1` | `2ab348d3f0e60ffce104ce293e679b73418d81b4a9023a1ab96e768190933826` | `2026-05-28_porichoy-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/porichoy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Porichoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/porichoy/) |
+| **Get License** | [Request Licensing for Porichoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/porichoy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d810379dd4f73eef26c27ec90ed0402ed57edfeee786c9392131fbadab29d8d1` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
