@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/porichoy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Porichoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/porichoy/) |
+| **Get License** | [Get License For Porichoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/porichoy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এক মায়ায় বাঁধা আমার এই হৃদয়
+> খুঁজে ফিরে শুধু তোমার চেনা সে পরিচয়
+> আঁধারের এই গভীরে তুমি আমার আলো
+> তোমায় বেসেছি আমি যে অনেক বেশি ভালো
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
